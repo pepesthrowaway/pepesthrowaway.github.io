@@ -33,7 +33,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/bumpermod.png) no-repeat;
+    background: url(bumpermod.png) no-repeat;
     opacity: 0;
 }
 
